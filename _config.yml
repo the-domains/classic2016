@@ -1,0 +1,28 @@
+name: classic2016
+favicon: null
+layout_spectrum: 0.21127841854467988
+typography_spectrum: 0.7457707652356476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2958768014796078
+  lightness: 0.6024431046098471
+  saturation: 0.3270189701579511
+  rhythmicContrast: 0.6419658693484962
+purpose: []
