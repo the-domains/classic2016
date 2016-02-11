@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T10:56:40.080Z'
-dateModified: '2016-02-11T10:55:42.158Z'
+datePublished: '2016-02-11T11:28:19.933Z'
+dateModified: '2016-02-11T11:28:15.554Z'
 title: Lorem ipsum dolor sit amet
 author: []
 authors: []
